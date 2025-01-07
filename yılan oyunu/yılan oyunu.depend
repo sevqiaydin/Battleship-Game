@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1734460779 source:c:\users\sevgİ aydin\downloads\codeblocks\yılan oyunu\main.c
-	<stdio.h>
-	<stdlib.h>
-	<conio.h>
-	<windows.h>
-	<string.h>
-
